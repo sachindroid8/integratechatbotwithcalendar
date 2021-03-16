@@ -1,6 +1,8 @@
 # Integrate Chatbot with Calendar
 Learn how to connect chatbot to backend using Dialogflow Fulfillment - TECHWITHSACH Ultimate Chatbot Tutorial Series
 
+Note: Make sure to add the dependencies as shown in package.json file. 
+
 This is part of the Ultimate Chatbot Tutorial Series by TechWithSach. 
 Check out the video tutorials here for complete walkthrough. 
 
